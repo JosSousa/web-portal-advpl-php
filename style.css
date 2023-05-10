@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    border: 1px solid black;
+    text-align: center;
+    margin: 3px 500px 0 500px ;
+}
+
+.fields{
+    padding: 4px;
+}
+
+
+.title {
+    border-bottom:1px solid black ;
+}
